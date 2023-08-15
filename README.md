@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Akif ÇİFTÇİOĞLU</h1>
-<h3 align="center">Software Worker I’m Mehmet Akif from Turkey 🌱 I’m currently working on Riders 📫 How to reach me mehmetakifcf@gmail.com</h3>
+- 🌱 I’m currently learning **working on Riders**
+
+- 📫 How to reach me **mehmetakifcf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
