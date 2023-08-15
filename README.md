@@ -2,7 +2,7 @@
 Software Worker<br /> 
 I’m Mehmet Akif from Turkey<br /> 
 🌱 I’m currently learning working on Riders<br /> 
-📫 How to reach me **mehmetakifcf@gmail.com**
+📫 How to reach me mehmetakifcf@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mehmetakifciftcioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetakifciftcioglu" height="30" width="40" /></a>
