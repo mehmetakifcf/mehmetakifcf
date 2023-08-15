@@ -8,7 +8,7 @@
  
 Software Worker<br /> 
 I’m Mehmet Akif from Turkey<br /> 
-🌱 I’m currently learning working on Riders<br /> 
+🌱 I’m currently working at Riders<br /> 
 📫 How to reach me mehmetakifcf@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
