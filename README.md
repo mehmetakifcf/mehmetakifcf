@@ -4,8 +4,13 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehmetakifcf&show_icons=true&theme=tokyonight" /> <img width="48%"        src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetakifcf&theme=tokyonight" />  
-<img src="https://github.com/mehmetakifcf/mehmetakifcf/blob/main/github-contribution-grid-snake.svg"</>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmetakifcf/mehmetakifcf/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehmetakifcf/v/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mehmetakifcf/mehmetakifcf/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
 
