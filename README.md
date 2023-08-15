@@ -1,4 +1,3 @@
-[![MasterHead](https://pbs.twimg.com/profile_images/1655616060668751897/aWkxqeVa_400x400.jpg)
 <h1 align="center">Hi 👋, I'm Mehmet Akif ÇİFTÇİOĞLU</h1>
 <h3 align="center">A passionate frontend devOriginally from Şanlıurfa, he is currently trying to live in Istanbul.eloper from India</h3>
 
