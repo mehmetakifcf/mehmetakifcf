@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Akif ÇİFTÇİOĞLU</h1>
-Software Worker
-I’m Mehmet Akif from Turkey
-🌱 I’m currently learning working on Riders
+Software Worker<br /> 
+I’m Mehmet Akif from Turkey<br /> 
+🌱 I’m currently learning working on Riders<br /> 
 📫 How to reach me **mehmetakifcf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
