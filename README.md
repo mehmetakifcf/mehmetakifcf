@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Akif ÇİFTÇİOĞLU</h1>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehmetakifcf&show_icons=true&theme=tokyonight" /> <img width="48%"        src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetakifcf&theme=tokyonight" />
-  <a href="https://profile.intra.42.fr/users/mehmetakifcf"><img width="48%" src="https://badge42.vercel.app/api/v2/cl1w5t0m5001608idy87o4848/stats?cursusId=9&coalitionId=undefined" alt="mehmetakifcf's 42 stats" /></a>
-  <a href="https://profile.intra.42.fr/users/mehmetakifcf"><img width="48%" src="https://badge42.vercel.app/api/v2/cl1w5t0m5001608idy87o4848/stats?cursusId=21&coalitionId=undefined" alt="mehmetakifcf's 42 stats" /></a>  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehmetakifcf&show_icons=true&theme=tokyonight" /> <img width="48%"        src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetakifcf&theme=tokyonight" />  
 <img src="https://github.com/mehmetakifcf/mehmetakifcf/blob/main/github-contribution-grid-snake.svg"</>
 </p>
 
