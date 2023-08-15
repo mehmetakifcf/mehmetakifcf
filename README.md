@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mehmet Akif ÇİFTÇİOĞLU</h1>
+ <h1 align="center">Hi 👋, I'm Mehmet Akif ÇİFTÇİOĞLU</h1>
 
 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehmetakifcf&show_icons=true&theme=tokyonight" /> <img width="48%"        src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetakifcf&theme=tokyonight" /> 
   <img src="https://github.com/mehmetakifcf/mehmetakifcf/blob/main/github-contribution-grid-snake.svg"</>
+  <img alingn="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
  
 Software Worker<br /> 
 I’m Mehmet Akif from Turkey<br /> 
