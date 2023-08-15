@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fhakki_alkan%2Fstatus%2F1592501492845453312&psig=AOvVaw3_OPjuUcdx5fDOa60uhB28&ust=1692189679897000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjzsfjX3oADFQAAAAAdAAAAABAI)
+[![MasterHead](https://pbs.twimg.com/profile_images/1655616060668751897/aWkxqeVa_400x400.jpg)
 
 
 
@@ -29,7 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetakifcf&show_icons=true&locale=en" alt="mehmetakifcf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetakifcf&" alt="mehmetakifcf" /></p>
-
 
 ![snake gif](https://github.com/mehmetakifcf/mehmetakifcf/blob/output/github-contribution-grid-snake.gif)
 
