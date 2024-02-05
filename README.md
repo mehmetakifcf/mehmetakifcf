@@ -6,8 +6,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehmetakifcf&show_icons=true&theme=tokyonight" /> <img width="48%"        src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetakifcf&theme=tokyonight" /> 
   <img src="https://github.com/mehmetakifcf/mehmetakifcf/blob/main/github-contribution-grid-snake.svg"</>
   
-p#first{
- Software Worker <br>
+
+Software Worker <br>
 I’m Mehmet Akif from Turkey <br>
 🌱 I’m currently working at Riders <br>
 📫 How to reach me mehmetakifcf@gmail.com <br>
