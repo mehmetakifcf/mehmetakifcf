@@ -18,7 +18,7 @@ I’m Mehmet Akif from Turkey <br>
 <a href="https://www.youtube.com/@mehmetakifciftcioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mehmetakifciftcioglu" height="30" width="40" /></a>
 <a href="https://discord.gg/mehmetakifciftcioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mehmetakifciftcioglu" height="30" width="40" /></a>
 </p>
-}
+
 <img alingn="right" alt="Coding" width="300" style="float:right;width:250px;height:160px;" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
