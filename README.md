@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mehmetakifcf/mehmetakifcf/output/github-contribution-grid-snake.svg" alt="snake gif" />
+   <img src="https://github.com/mehmetakifcf/mehmetakifcf/blob/main/github-contribution-grid-snake.svg"</>
 </p>
 
 ---
@@ -40,10 +40,4 @@
   <a href="https://www.youtube.com/@mehmetakifciftcioglu" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmetakifcf&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetakifcf" />
 </p>
